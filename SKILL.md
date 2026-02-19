@@ -4,7 +4,7 @@ description: Identify windows of heightened receptivity in a learner's behavior 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4944
+  version: 1.0.4945
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - sensitive-period-recognition
